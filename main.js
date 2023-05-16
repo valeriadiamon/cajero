@@ -32,5 +32,5 @@ function login(event) {
 }
 console.log(localStorage.getItem("numUsr"))
 
-let lista = JSON.parse(localStorage.getItem("lista"));
-localStorage.setItem("lista",JSON.stringify(lista));
+//let lista = JSON.parse(localStorage.getItem("lista"));
+//localStorage.setItem("lista",JSON.stringify(lista));
